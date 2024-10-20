@@ -1,0 +1,13 @@
+ID,initOwnerUserID,ownerUserID,title,author,physicalCondition,statusCode,description,timestampAdded
+1,1,5,Graph theory,Trudea,4,-1,--------------------------------,1709912954
+2,1,1,Introduction to algorithms,CLRS,3,1,Suggested,1709912982
+3,1,4,Romance by romance,Gropens,5,-1,English version,1709913040
+4,2,5,Andisheh 2,Group of,2,-1,--------------------------------,1709913149
+5,2,3,Khoda shenasi,Mohsen alai,4,-1,--------------------------------,1709913206
+6,4,5,Love story,Rezok,5,-1,Too sci-fy,1709915006
+7,4,4,123,456,1,1,789,1709915034
+8,5,5,Riazi 1,Thomas,3,1,--------------------------------,1709915188
+9,5,5,Riazi 2,Thomas,5,1,--------------------------------,1709915197
+10,5,5,Physics 1,James,4,1,--------------------------------,1709915220
+11,5,5,Physics 2,James,3,-1,--------------------------------,1709915399
+12,6,6,Lack of energy,EU academia,5,-1,Hard box,1709915912

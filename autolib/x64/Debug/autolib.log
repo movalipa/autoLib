@@ -1,0 +1,44 @@
+﻿  Source.cpp
+E:\proj\pishrafteh\autolib\autolib\autolib\user.h(241,13): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+E:\proj\pishrafteh\autolib\autolib\autolib\user.h(261,28): warning C4244: '=': conversion from 'time_t' to 'int', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+E:\proj\pishrafteh\autolib\autolib\autolib\book.h(205,13): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+E:\proj\pishrafteh\autolib\autolib\autolib\book.h(229,28): warning C4244: '=': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+E:\proj\pishrafteh\autolib\autolib\autolib\request.h(185,13): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+E:\proj\pishrafteh\autolib\autolib\autolib\request.h(205,34): warning C4244: '=': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+E:\proj\pishrafteh\autolib\autolib\autolib\request.h(291,10): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+E:\proj\pishrafteh\autolib\autolib\autolib\request.h(424,10): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+E:\proj\pishrafteh\autolib\autolib\autolib\Source.cpp(26,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\proj\pishrafteh\autolib\autolib\autolib\Source.cpp(32,51): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\proj\pishrafteh\autolib\autolib\autolib\Source.cpp(40,51): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\proj\pishrafteh\autolib\autolib\autolib\Source.cpp(46,51): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\proj\pishrafteh\autolib\autolib\autolib\Source.cpp(173,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\proj\pishrafteh\autolib\autolib\autolib\Source.cpp(214,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\proj\pishrafteh\autolib\autolib\autolib\Source.cpp(284,22): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\proj\pishrafteh\autolib\autolib\autolib\Source.cpp(306,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\proj\pishrafteh\autolib\autolib\autolib\Source.cpp(373,22): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\proj\pishrafteh\autolib\autolib\autolib\Source.cpp(395,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\proj\pishrafteh\autolib\autolib\autolib\Source.cpp(446,22): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\proj\pishrafteh\autolib\autolib\autolib\Source.cpp(1000,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\proj\pishrafteh\autolib\autolib\autolib\Source.cpp(1037,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\proj\pishrafteh\autolib\autolib\autolib\Source.cpp(1145,12): warning C4101: 'cc2': unreferenced local variable
+E:\proj\pishrafteh\autolib\autolib\autolib\Source.cpp(1425,12): warning C4101: 'cc2': unreferenced local variable
+E:\proj\pishrafteh\autolib\autolib\autolib\Source.cpp(1728,12): warning C4101: 'cc2': unreferenced local variable
+E:\proj\pishrafteh\autolib\autolib\autolib\request.h(487,1): warning C4715: 'attempRejectBookRequest': not all control paths return a value
+E:\proj\pishrafteh\autolib\autolib\autolib\request.h(455,1): warning C4715: 'attempAcceptBookRequest': not all control paths return a value
+  autolib.vcxproj -> E:\proj\pishrafteh\autolib\autolib\x64\Debug\autolib.exe
