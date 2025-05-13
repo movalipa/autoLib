@@ -62,8 +62,16 @@ namespace intro {
 				setConsoleColor(LIGHTRED);
 			cout << getConsoleRows();
 
+			
+			int col = getConsoleColumns();
+			int row = getConsoleRows();
+			while (col == getConsoleColumns() && row == getConsoleRows())
+			{
+				// halt if dimentions didnt change
+				Sleep(10);
+			}
+			
 			setConsoleColor(WHITE);
-			Sleep(500);
 			clearConsole();
 		}
 
